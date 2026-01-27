@@ -51,7 +51,7 @@ git branch
 
 ### 🟢 Paso 3: Modificar archivos del proyecto
 
-#### ✏️ Archivo 1: `README.md`
+#### ✏️ Archivo 1: `NOMBRES.md`
 
 En la sección **Participantes**, agrega tu nombre:
 
