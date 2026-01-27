@@ -121,7 +121,7 @@ Desde GitHub / GitLab:
 Luego, crea el Pull Request 🚀
 
 ---
-###🟢 Paso 7: Mantener tu rama actualizada con `main` (después del Pull Request)
+### 🟢 Paso 7: Mantener tu rama actualizada con `main` (después del Pull Request)
 
 Una vez tu Pull Request fue aprobado y mergeado en `main`, es buena práctica actualizar tu rama local para que refleje el estado actual del proyecto.
 
