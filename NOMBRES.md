@@ -3,3 +3,4 @@
 - Hugo Alejandro
 - Eliana
 - Santiago
+- Sergio
