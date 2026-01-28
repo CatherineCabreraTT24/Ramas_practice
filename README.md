@@ -1,4 +1,4 @@
-# DS Git Webinar
+# DS Git Webinar  
 
 Este repositorio es un espacio práctico para aprender el flujo básico de **Git** en un proyecto de **Data Science**, trabajando con ramas y Pull Requests como en un entorno real de trabajo.
 
