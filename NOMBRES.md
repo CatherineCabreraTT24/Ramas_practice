@@ -1,7 +1,7 @@
 ## 👥 Participantes
 - (Agrega tu nombre aquí)
 - Hugo Alejandro
-- Eliana
+- Catherine Eliana
 - Santiago
 - Sergio
 - Danna
